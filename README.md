@@ -37,15 +37,19 @@ Both public and full versions of the executive summary are provided, formatted f
 
 ---
 
-## 📁 File Map
-```
-ai-assisted-triage-capstone/
-├── Executive_Summary_GitHub_Final.md      <- Public educational summary
-├── Executive_Summary_Light_Unredacted.md  <- Educational full report
-├── Executive_Summary_PDF_Formatted.md     <- Print-ready formal report (for PDF export)
-├── artifacts/                             <- Placeholder for simulated artifacts
-└── README.md                              <- This file
-```
+## 📁 Folder Map
+
+Explore the structure and supporting materials of this project.  
+Each section expands on different parts of the **AI-Assisted Triage & Incident Response** workflow.
+
+| Folder | Description |
+|:-------|:-------------|
+| [📄 **reports/**](./reports) | Contains all formatted executive summaries and PDF-ready reports generated during the capstone. |
+| [🧭 **docs/**](./docs) | Investigation notes, triage flowcharts, prompt logs, and methodology documentation. |
+| [💾 **artifacts/**](./artifacts) | Simulated forensic artifacts, IOC samples, and hashes for educational reference. |
+| [🖼️ **images/**](./images) | Visuals, diagrams, and storyboard panels used to illustrate investigation stages. |
+
+> 🧠 *All content within this repository is fictional and created for educational demonstration purposes only.*
 
 ---
 
