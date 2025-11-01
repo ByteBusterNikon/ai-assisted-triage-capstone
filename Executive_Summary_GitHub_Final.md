@@ -19,7 +19,7 @@ A sophisticated four-stage compromise impacted **win2.mcp.lab** on **2025-10-30*
 The attacker disabled Windows Defender, deployed a fileless .NET payload, and established persistent remote access using AnyDesk.  
 This public release is **fully educational** and demonstrates how to write structured triage reports with AI-assisted tooling.  
 
-**Full report (educational version):** [Executive_Summary_Full_Unredacted.md](./Executive_Summary_Full_Unredacted.md)
+**Full report (educational version):** [Executive_Summary_Full_Unredacted.md](./Executive_Summary_Light_Unredacted)
 
 ---
 
