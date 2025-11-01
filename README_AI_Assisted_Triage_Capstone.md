@@ -1,5 +1,10 @@
 # 🧠 AI-Assisted Triage Capstone – Incident Response Simulation
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-blue)
+![AI-Assist](https://img.shields.io/badge/AI_Assist-ChatGPT_Claude-purple)
+![License](https://img.shields.io/badge/License-Educational_Use_Only-lightgrey)
+
 **Author:** MCP Medic Triage Assistant  
 **Analyst:** David Bustos  
 **Date:** October 31, 2025  
