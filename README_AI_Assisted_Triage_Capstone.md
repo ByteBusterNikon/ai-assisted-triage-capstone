@@ -13,6 +13,14 @@
 
 ---
 
+## 📄 Reports
+- [Executive Summary (GitHub-Safe)](./Executive_Summary_GitHub_Final.md)
+- [Full Report (Educational Version)](./Executive_Summary_Light_Unredacted.md)
+- [Formal PDF Layout (For Printing)](./Executive_Summary_PDF_Formatted.md)
+
+---
+
+
 ## 🎯 Repository Overview
 This repository demonstrates a **simulated digital forensics and incident response (DFIR)** workflow powered by **AI-assisted triage and reporting**.  
 The project centers on a fictional Windows host, **win2.mcp.lab**, which experiences a multi-stage malware compromise.  
